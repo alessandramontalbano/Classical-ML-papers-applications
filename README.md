@@ -1,7 +1,8 @@
 # Classical-ML-papers
 An ever-growing collection of classical and must-read papers in Machine Learning
 
-
+## Causal Machine Learning:
+Github repository "Must-read recent papers and resources on {Causal}∩{ML}": https://github.com/jvpoulos/causal-ml
 ## Convolutional Neural Network
 1. Krizhevsky, Alex & Sutskever, Ilya & Hinton, Geoffrey. (2012). ImageNet Classification with Deep Convolutional Neural Networks. Neural Information Processing Systems. 25. 10.1145/3065386.  https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
 2. Fukushima, K. Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position. Biol. Cybernetics 36, 193–202 (1980). https://doi.org/10.1007/BF00344251. https://link.springer.com/article/10.1007/BF00344251
@@ -85,6 +86,11 @@ Most complete list ever found: https://en.wikipedia.org/wiki/List_of_datasets_fo
 ## Games
 1. Silver, David & Huang, Aja & Maddison, Christopher & Guez, Arthur & Sifre, Laurent & Driessche, George & Schrittwieser, Julian & Antonoglou, Ioannis & Panneershelvam, Veda & Lanctot, Marc & Dieleman, Sander & Grewe, Dominik & Nham, John & Kalchbrenner, Nal & Sutskever, Ilya & Lillicrap, Timothy & Leach, Madeleine & Kavukcuoglu, Koray & Graepel, Thore & Hassabis, Demis. (2016). Mastering the game of Go with deep neural networks and tree search. Nature. 529. 484-489. 10.1038/nature16961. https://www.nature.com/articles/nature16961
 2. Campbell, Murray et al. “Deep Blue.” Artif. Intell. 134 (2002): 57-83. https://www.sciencedirect.com/science/article/pii/S0004370201001291
+
+
+
+## Interpretability
+Github repository "Interpretable Machine learning" https://github.com/grazianomita/machine_learning_interpretability_papers
 
 ## Optimization
 #### Adam
@@ -189,3 +195,31 @@ Most complete list ever found: https://en.wikipedia.org/wiki/List_of_datasets_fo
 ## Statistics
 #### The Bootstrap
 1. Efron, B. (1992). Bootstrap Methods: Another Look at the Jackknife. In: Kotz, S., Johnson, N.L. (eds) Breakthroughs in Statistics. Springer Series in Statistics. Springer, New York, NY. https://doi.org/10.1007/978-1-4612-4380-9_41. https://sites.stat.washington.edu/courses/stat527/s14/readings/ann_stat1979.pdf
+
+
+# Applications
+## Biology
+- Papers on machine learning for proteins https://github.com/yangkky/Machine-learning-for-proteins
+- Awesome-machine-or-deep-learning-related-papers-on-Cell-Nature-Science-series-of-journals https://github.com/jdlc105/Awesome-machine-or-deep-learning-related-papers-on-Cell-Nature-Science-series-of-journals
+
+## Biomedicine
+An-Incomplete-ML-Paper-Collection-for-BioMedical-Applications https://github.com/xuhanvsxuhan/An-Incomplete-ML-Paper-Collection-for-BioMedical-Applications
+
+## Business 
+- Data science & machine learning in production https://github.com/eugeneyan/applied-ml
+
+## Machine Learning Engineering
+- awesome-machine-learning-engineering https://github.com/d18s/awesome-machine-learning-engineering
+
+## Medicine
+- Deep Learning papers in Electronic Health Records (EHR) https://github.com/gdorleon/DeepLearning_EHR_Papers
+
+##  Physics 
+- NeurIPS 2019 Papers/Talks Relevant to Computational Physics https://github.com/gdportwood/Turb_ML_Papers/blob/master/NeurIPS2019.md
+- Computational-Physics-and-Machine-Learning-Reading-List https://github.com/loliverhennigh/Computational-Physics-and-Machine-Learning-Reading-List
+- A Living Review of Machine Learning for Particle Physics https://github.com/iml-wg/HEPML-LivingReview
+
+## Software Engineering
+- Machine Learning for Software Engineering https://github.com/saltudelft/ml4se
+
+
