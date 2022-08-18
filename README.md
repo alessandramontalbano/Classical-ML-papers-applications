@@ -8,6 +8,7 @@ An ever-growing collection of classical and must-read papers in Machine Learning
 3. Y. Lecun, L. Bottou, Y. Bengio and P. Haffner, "Gradient-based learning applied to document recognition," in Proceedings of the IEEE, vol. 86, no. 11, pp. 2278-2324, Nov. 1998, doi: 10.1109/5.726791. http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
 4. E. Shelhamer, J. Long and T. Darrell, "Fully Convolutional Networks for Semantic Segmentation," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 39, no. 4, pp. 640-651, 1 April 2017, doi: 10.1109/TPAMI.2016.2572683. https://arxiv.org/abs/1411.4038
 5. Waibel, Alexander & Hanazawa, Toshiyuki & Hinton, G. & Shikano, Kiyohiro & Lang, K.J.. (1989). Phoneme recognition using time-delay neural networks. Acoustics, Speech and Signal Processing, IEEE Transactions on. 37. 328 - 339. 10.1109/29.21701. https://www.cs.toronto.edu/~fritz/absps/waibelTDNN.pdf
+<!-- 
 
 #### Inception
 1. Going Deeper with Convolutions (2014), Szegedy et al., @ai.google + @Github 💽.
@@ -21,7 +22,7 @@ An ever-growing collection of classical and must-read papers in Machine Learning
 #### VGG (image recognition CNN)
 
 1. Very Deep Convolutional Networks for Large-Scale Image Recognition (2015), Simonyan and Zisserman, @arXiv + @author 🌐 + @ICLR 📊 + @YouTube 🎥.
-
+-->
 
 ## 📊 Data pre-processing
 1. Wickham, Hadley. (2014). Tidy data. The American Statistician. 14. 10.18637/jss.v059.i10. https://vita.had.co.nz/papers/tidy-data.pdf
